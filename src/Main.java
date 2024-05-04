@@ -25,5 +25,6 @@ public class Main {
                 System.out.println(number1/number2);
             }
         }
+
     }
 }
